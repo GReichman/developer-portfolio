@@ -1,0 +1,19 @@
+body{
+    background-image: url("../pictures/hotel-wallpaper-black.png");
+}
+
+
+.container{
+    margin-top:10px;
+}
+.card-img-top{
+    width:80%;
+    max-height: 400px;
+    margin-left:10%;
+    margin-top:5px;
+
+}
+
+.card-body{
+    text-align:center;
+}
