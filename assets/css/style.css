@@ -21,3 +21,7 @@ body{
 .list-group{
     text-align: center;
 }
+
+.portfolioRow{
+    margin-top:5px;
+}
