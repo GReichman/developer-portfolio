@@ -25,3 +25,34 @@ body{
 .portfolioRow{
     margin-top:5px;
 }
+
+.linkPic{
+    height:100px;
+    width:100%;
+}
+
+#portLink{
+    text-decoration: none; 
+    color:black; 
+ 
+}
+#portLink:hover{
+    text-decoration: none; 
+    color:black; 
+}
+
+#portText{
+   
+    padding-top:20px;
+    background-color: white;
+    text-align: center;
+}
+
+#linkHead{
+    color:white;
+    text-align: center;
+}
+
+.linkRow{
+    margin-top:10px;
+}
