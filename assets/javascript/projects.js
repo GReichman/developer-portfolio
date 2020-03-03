@@ -16,5 +16,11 @@ const projects = [
         repo: "https://github.com/GReichman/day-planner",
         live: "https://greichman.github.io/day-planner/",
         image: "assets/pictures/planner.png"
+    },
+    {
+        name: "Burger Eater",
+        repo: "https://github.com/GReichman/burger-eater",
+        live: "https://frozen-island-56616.herokuapp.com/",
+        image: "assets/pictures/burger.png"
     }
 ];
