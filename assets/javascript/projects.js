@@ -22,5 +22,17 @@ const projects = [
         repo: "https://github.com/GReichman/burger-eater",
         live: "https://frozen-island-56616.herokuapp.com/",
         image: "assets/pictures/burger.png"
+    },
+    {
+        name: "Note Taker",
+        repo: "https://github.com/GReichman/note-taker",
+        live:"https://stormy-wave-49425.herokuapp.com/",
+        image: "https://github.com/GReichman/note-taker/raw/master/public/assets/pictures/home.png"
+    },
+    {
+        name: "Archer Forums",
+        repo:"https://github.com/rforde1/project-2",
+        live:"TODO",
+        image:" https://github.com/GReichman/note-taker/raw/master/public/assets/pictures/home.png"
     }
 ];
