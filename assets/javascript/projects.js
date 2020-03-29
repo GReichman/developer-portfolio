@@ -32,7 +32,7 @@ const projects = [
     {
         name: "Archer Forums",
         repo:"https://github.com/rforde1/project-2",
-        live:"TODO",
-        image:" https://github.com/GReichman/note-taker/raw/master/public/assets/pictures/home.png"
+        live:"https://fast-bayou-13599.herokuapp.com/",
+        image:"assets/pictures/archer.jpg"
     }
 ];
